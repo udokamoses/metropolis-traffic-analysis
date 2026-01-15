@@ -55,7 +55,7 @@ Analysis was restricted to 2016–2025, in line with the project brief.
 - Expand future analysis with geographic or demographic data
 
 ## Links
-[interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDNhNzAwMzYtZGFjYi00NTEwLWIyMjItOTkyMGY2ZDcxZDRhIiwidCI6IjBlYTAxMTRjLWFlZGQtNGE3ZC1hNDRmLTRlYWE5MTkwNDQxNCJ9)
+[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDNhNzAwMzYtZGFjYi00NTEwLWIyMjItOTkyMGY2ZDcxZDRhIiwidCI6IjBlYTAxMTRjLWFlZGQtNGE3ZC1hNDRmLTRlYWE5MTkwNDQxNCJ9)
 
 
 
