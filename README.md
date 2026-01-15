@@ -28,6 +28,37 @@ The dataset contains traffic crash records including crash dates, injury severit
 Analysis was restricted to 2016–2025, in line with the project brief.
 
 ### Data Cleaning & Transformation (ETL)
+- Filtered records to include only 2016–2025
+- Handled null and “Unknown” values appropriately
+- Standardized date and categorical fields
+- Created a Date Table to enable time intelligence calculations (YoY, trends)
+
+![dataset](trafficdata-preview.PNG)
+
+## Analysis and Key Insights
+### Crash Trends
+- Total crashes and injury crashes show clear seasonal and yearly patterns
+- YoY KPIs highlight periods of improvement and concern
+
+### Injury Severity Distribution
+- Majority of crashes fall under No Injury and Non-Incapacitating Injury
+- Fatal and incapacitating crashes form a smaller proportion but represent higher risk
+
+### Contributing Causes
+- A small number of contributory causes account for most severe and fatal crashes
+- These causes present opportunities for targeted intervention
+
+## Recommendations
+- Focus safety interventions on top contributory causes
+- Monitor years with repeated YoY increases
+- Use the Power BI dashboard for continuous policy evaluation
+- Expand future analysis with geographic or demographic data
+
+## Links
+[interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDNhNzAwMzYtZGFjYi00NTEwLWIyMjItOTkyMGY2ZDcxZDRhIiwidCI6IjBlYTAxMTRjLWFlZGQtNGE3ZC1hNDRmLTRlYWE5MTkwNDQxNCJ9)
+
+
+
 
 
 
