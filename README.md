@@ -1,2 +1,6 @@
-# metropolis-traffic-analysis
-This report provides an analytical overview of traffic crash data from 2016 to 2025, developed as part of a Power BI capstone project.
+# Metropolis Traffic Crash Analysis Report (2016–2025)
+Analyzing Traffic Crash Trends and Injury Severity from 2016-2025 Using Power BI
+
+![dashboard](trafficdashboard-image.PNG)
+
+## Executive Summary
