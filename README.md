@@ -23,4 +23,12 @@ Traffic safety stakeholders often lack a centralized, interactive platform to:
 ### Tools Used:
 Power BI, Power Query, DAX
 
+### Data Sourcing & Overview
+The dataset contains traffic crash records including crash dates, injury severity levels, and primary contributory causes.
+Analysis was restricted to 2016–2025, in line with the project brief.
+
+### Data Cleaning & Transformation (ETL)
+
+
+
 
